@@ -1,0 +1,14 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [Electrónica_Aplicada-15.2.PrjPcb]
+   Generated File[263-15.2.GTO]
+   Generated File[263-15.2.GKO]
+   Generated File[263-15.2.RUL]
+   Generated File[263-15.2.EXTREP]
+   Generated File[263-15.2.REP]
+
+
+Files Generated   : 5
+Documents Printed : 0
+
+Finished Output Generation At 17:45:01 On 07/07/2023

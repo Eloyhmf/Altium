@@ -1,0 +1,12 @@
+Added Component: Designator=D1(DO-41)
+Add component (AddParameter): Name = "Current peak reverse"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Nominal Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power dissipated"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Reverse"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = ""; VariantName = "[No Variations]"
+Added Member To Class: ClassName=263-15.2 Member=Component RP1 RP_RKT6V-H

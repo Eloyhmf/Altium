@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=VCC Pin=RP1-1
+Removed Pin From Net: NetName=NetR3_2 Pin=RP1-2
+Added Component: Designator=RP1(RP_RKT6V)
+Add component (AddParameter): Name = "MPN"; Value = "RKT6V-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500K O"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=VCC Pin=RP1-1
+Added Pin To Net: NetName=Inverting Pin=RP1-2
+Added Pin To Net: NetName=NetR3_2 Pin=RP1-3
+Added Pin To Net: NetName=Inverting Pin=U1-3

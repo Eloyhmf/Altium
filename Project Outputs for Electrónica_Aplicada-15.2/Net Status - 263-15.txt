@@ -1,0 +1,19 @@
+Net Status Report
+Filename     : D:\ELOY\ELECTRONICA\Altium\Electrónica_Aplicada-15.2\263-15.2.PcbDoc
+Date         : 07/07/2023
+Time         : 13:15:44
+Time Elapsed : 00:00:00
+
+Nets, Layer, Length
+    GND, Signal Layers Only, 0mm
+    Inverting, Signal Layers Only, 34.7012mm
+    NetD1_A, Signal Layers Only, 6.6521mm
+    NetD2_A, Signal Layers Only, 5.0763mm
+    NetD2_K, Signal Layers Only, 5.7349mm
+    NetR1_1, Signal Layers Only, 3.429mm
+    NetR3_2, Signal Layers Only, 11.4934mm
+    No inverting, Signal Layers Only, 7.696mm
+    Output, Signal Layers Only, 13.3356mm
+    Signal Rele, Signal Layers Only, 13.3379mm
+    VCC, Signal Layers Only, 98.1234mm
+count : 11

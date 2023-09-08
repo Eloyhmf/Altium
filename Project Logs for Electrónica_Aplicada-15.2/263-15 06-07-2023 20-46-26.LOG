@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=VCC Pin=D1-K
+Added Member To Class: ClassName=263-15.2 Member=Component D1 D_1N4007
+Added Member To Class: ClassName=263-15.2 Member=Component RP1 RP_RKT6V-H

@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=NetD1_A Pin=J1-1
+Removed Pin From Net: NetName=GND Pin=J1-2
+Removed Pin From Net: NetName=VCC Pin=J2-1
+Removed Pin From Net: NetName=Inverting Pin=J2-2
+Added Component: Designator=J1(CON_2_5mm)
+Add component (AddParameter): Name = "MPN"; Value = "MB612-50002"; VariantName = "[No Variations]"
+Added Component: Designator=J2(CON_2_5mm)
+Add component (AddParameter): Name = "MPN"; Value = "MB612-50002"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_A Pin=J1-1
+Added Pin To Net: NetName=NetD1_A Pin=J1-1
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=Inverting Pin=J2-2
+Added Member To Class: ClassName=263-15.2 Member=Component D1 D_1N4007

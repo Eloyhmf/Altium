@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Inverting Pin=RP1-2
+Removed Pin From Net: NetName=Inverting Pin=U1-3
+Added Pin To Net: NetName=No inverting Pin=RP1-2
+Added Pin To Net: NetName=No inverting Pin=U1-3
+Added Net: Name=No inverting

@@ -1,0 +1,116 @@
+Added Component: Designator=C1(CAP_2mm)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP_1.5mm)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "10 uF"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP_2mm)
+Add component (AddParameter): Name = "PackageDescription"; Value = "Capacitor; 2 Leads"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "CAPR5-4X5"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "23-Sep-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100 uF"; VariantName = "[No Variations]"
+Added Component: Designator=D1(DO-41)
+Add component (AddParameter): Name = "Current peak reverse"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Nominal Current"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power dissipated"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Reverse"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Temperature"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=D2(LED-2.54mm)
+Add component (AddParameter): Name = "Current peak reverse"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Nominal Current"; Value = "20 mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Power dissipated"; Value = "80 mW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Temperature"; Value = "100 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Max Voltage Reverse"; Value = "5 V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Temperature"; Value = "-40 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "MV5754A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SMD/THC"; Value = "THC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage Forward"; Value = "2 V"; VariantName = "[No Variations]"
+Added Component: Designator=J1(MB61250002)
+Add component (AddParameter): Name = "MPN"; Value = "MB612-50002"; VariantName = "[No Variations]"
+Added Component: Designator=J2(MB61250002)
+Add component (AddParameter): Name = "MPN"; Value = "MB612-50002"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RESISTOR-8mm)
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k O"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RESISTOR-8mm)
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k O"; VariantName = "[No Variations]"
+Added Component: Designator=R3(RESISTOR-8mm)
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100k O"; VariantName = "[No Variations]"
+Added Component: Designator=R4(RESISTOR-8mm)
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "47k O"; VariantName = "[No Variations]"
+Added Component: Designator=R5(RESISTOR-8mm)
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "330 O"; VariantName = "[No Variations]"
+Added Component: Designator=RP1(RP_RKT6V)
+Add component (AddParameter): Name = "MPN"; Value = "RKT6V-H"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Max"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Temperature Min"; Value = "°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "500K O"; VariantName = "[No Variations]"
+Added Component: Designator=U1(PDIP-8_THC)
+Add component (AddParameter): Name = "Max Temperature"; Value = "150 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Min Temperature"; Value = "-65 ºC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MPN"; Value = "LM741N"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-2
+Added Pin To Net: NetName=GND Pin=C3-2
+Added Pin To Net: NetName=GND Pin=J1-2
+Added Pin To Net: NetName=GND Pin=R2-1
+Added Pin To Net: NetName=GND Pin=R3-1
+Added Pin To Net: NetName=GND Pin=U1-4
+Added Net: Name=GND
+Added Pin To Net: NetName=Inverting Pin=C2-1
+Added Pin To Net: NetName=Inverting Pin=J2-2
+Added Pin To Net: NetName=Inverting Pin=R1-2
+Added Pin To Net: NetName=Inverting Pin=U1-2
+Added Net: Name=Inverting
+Added Pin To Net: NetName=NetD1_A Pin=D1-A
+Added Pin To Net: NetName=NetD1_A Pin=J1-1
+Added Net: Name=NetD1_A
+Added Pin To Net: NetName=NetD2_A Pin=D2-A
+Added Pin To Net: NetName=NetD2_A Pin=R5-1
+Added Net: Name=NetD2_A
+Added Pin To Net: NetName=NetD2_K Pin=D2-K
+Added Net: Name=NetD2_K
+Added Pin To Net: NetName=NetR1_1 Pin=R1-1
+Added Pin To Net: NetName=NetR1_1 Pin=R2-2
+Added Net: Name=NetR1_1
+Added Pin To Net: NetName=No inverting Pin=R3-2
+Added Pin To Net: NetName=No inverting Pin=RP1-3
+Added Pin To Net: NetName=No inverting Pin=U1-3
+Added Net: Name=No inverting
+Added Pin To Net: NetName=Output Pin=R4-2
+Added Pin To Net: NetName=Output Pin=U1-6
+Added Net: Name=Output
+Added Pin To Net: NetName=Signal Rele Pin=C3-1
+Added Pin To Net: NetName=Signal Rele Pin=R4-1
+Added Net: Name=Signal Rele
+Added Pin To Net: NetName=VCC Pin=C1-1
+Added Pin To Net: NetName=VCC Pin=D1-K
+Added Pin To Net: NetName=VCC Pin=J2-1
+Added Pin To Net: NetName=VCC Pin=R5-2
+Added Pin To Net: NetName=VCC Pin=RP1-1
+Added Pin To Net: NetName=VCC Pin=U1-7
+Added Net: Name=VCC
+Added Class: Name=263-15.2
+Added Room: Name=263-15.2
